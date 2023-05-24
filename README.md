@@ -31,3 +31,6 @@ The data you receive reveals differences in user behavior:
 
 ## Documentation
 ![Springfield Genres](https://github.com/ngurahgotama/Music-Analysis/blob/main/documentation/Screenshot%20from%202023-05-24%2017-17-33.png)
+![Shelbyville Genres](https://github.com/ngurahgotama/Music-Analysis/blob/main/documentation/Screenshot%20from%202023-05-24%2017-21-50.png)
+![](https://github.com/ngurahgotama/Music-Analysis/blob/main/documentation/Screenshot%20from%202023-05-24%2017-28-10.png)
+
