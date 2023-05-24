@@ -5,9 +5,6 @@ This project aims to analyze music data using various algorithms and techniques 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
@@ -15,4 +12,4 @@ This project aims to analyze music data using various algorithms and techniques 
 
 ## Introduction
 
-In this music analysis project, we leverage the power of data science and machine learning to extract meaningful information from music files. By analyzing the audio features, such as tempo, pitch, rhythm, and energy, we can uncover patterns, trends, and relationships within the music data.
+In this project, you will compare the music preferences of users in the cities of Springfield and Shelbyville. You'll look at actual Y.Music data to test some of the hypotheses below and compare user behavior in the two cities.
